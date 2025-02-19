@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jajamin
+- 🇫🇮 I’m interested in languages
+- 🐍 I’m currently learning python
